@@ -42,17 +42,18 @@ Perfect for:
 | 🌐 **Chrome / Edge / Brave** | `.crx` | [Download](https://github.com/itsimonsec/simon-recon/blob/main/extensions/Simon-Recon.crx) |
 
 ### How to Install
+```
 git clone https://github.com/itsimonsec/simon-recon.git
-
+```
 **Firefox:**
-1. cd simon-recon
+1. ```cd simon-recon```
 2. Drag and drop it into Firefox
 3. Click **Add**
 
 > **Note:** If Firefox shows a warning, go to `about:config` and set `xpinstall.signatures.required` to `false`.
 
 **Chrome / Edge / Brave:**
-1.cd simon-recon
+1.```cd simon-recon```
 2. Go to `chrome://extensions/`
 3. Enable **Developer mode** (top right)
 4. Drag and drop the `.crx` file
