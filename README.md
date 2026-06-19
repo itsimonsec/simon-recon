@@ -38,8 +38,8 @@ Perfect for:
 
 | Browser | File | Download |
 |---------|------|----------|
-| 🦊 **Firefox** | `.xpi` | [Download](https://github.com/itsimonsec/simon-recon/extensions/Simon-Recon%28Fire%20Fox%29.xpi) |
-| 🌐 **Chrome / Edge / Brave** | `.crx` | [Download](https://github.com/itsimonsec/simon-recon/extensions/Simon-Recon.crx) |
+| 🦊 **Firefox** | `.xpi` | [Download](https://github.com/itsimonsec/simon-recon/blob/main/extensions/Simon-Recon(Fire%20Fox).xpi) |
+| 🌐 **Chrome / Edge / Brave** | `.crx` | [Download](https://github.com/itsimonsec/simon-recon/blob/main/extensions/Simon-Recon.crx) |
 
 ### How to Install
 
