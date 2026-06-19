@@ -66,6 +66,17 @@ Perfect for:
 4. Browse, search, and copy URLs!
 
 ---
+## ⚠️ Firefox Installation Notes
+
+If you see the error **"This add-on could not be installed because it appears to be corrupt"** when installing the `.xpi` file:
+
+1. Open Firefox and go to `about:config`
+2. Click **Accept the Risk and Continue**
+3. Search for `xpinstall.signatures.required`
+4. Double-click to set it to **false**
+5. Try installing the `.xpi` file again
+
+> **Note:** This is only required for unsigned add-ons. The official Mozilla-signed version will install without this step.
 
 
 **⭐ Star this repo if you find it useful!**
